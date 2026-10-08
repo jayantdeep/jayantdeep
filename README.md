@@ -1,16 +1,40 @@
-# Introduction to GitHub
+#Hi there 👋, I'm Jayant Deep
+🚀 About Me
+Security Transformation Specialist with experience in Cloud Security, Identity Protection, Zero Trust, Microsoft Security Technologies, and Security Operations.
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+🔹 Passionate about Cyber Security, Threat Detection, Cloud Architecture, and Security Automation.
+🔹 Experienced with Microsoft Azure, Microsoft Defender, Microsoft Sentinel, Entra ID, AWS, and Security Assessments.
+🔹 Skilled in designing security controls, conducting posture assessments, and driving security transformation initiatives.
+🔹 Continuous learner pursuing advanced certifications in Azure and Security Architecture.
 
-Hey jayantdeep!
+##🛡️ Areas of Interest
+Cloud Security
+Zero Trust Architecture
+Microsoft Defender Suite
+Microsoft Sentinel & KQL
+Identity & Access Management
+Azure Security
+Security Automation
+Threat Detection & Response
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+###💻 Technologies & Tools
+Azure | Microsoft Sentinel | Defender XDR | Entra ID | KQL
+AWS | PowerShell | GitHub | Linux | Windows Server
 
-Remember, it's self-paced so feel free to take a break! ☕️
+####📚 Current Focus
+Security Architecture
+Exposure Management
+AI Security
+Zero Trust Assessments
+Security Detection Engineering
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/jayantdeep/jayantdeep/issues/1)
+#####🎯 Certifications
+✔️ AZ-900 (In Progress)
+✔️ AZ-104 (Planned)
+✔️ AZ-500 (Planned)
+✔️ SC-100 (Target)
 
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+📫 Let's Connect
+LinkedIn: www.linkedin.com/in/jayantdeep
+GitHub: https://github.com/jayantdeep
+"Security is not a product, but a process." 🔐
